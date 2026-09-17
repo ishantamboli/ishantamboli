@@ -51,13 +51,60 @@ Welcome to my GitHub! I am a computer science enthusiast exploring the intersect
 
 ---
 
+
+
+<h3 align="center">🔥 GitHub  Streak</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishantamboli&theme=tokyonight&background=0d1117&ring=00ff7f&fire=ff7b72&curr_num=00ff7f&curr_lbl=00ff7f&tot_num=38bdf8&tot_lbl=38bdf8&long_num=c084fc&long_lbl=c084fc&side_labels=false" alt="GitHub Coding Streak" />
+</p>
+
+
+
+<p align="center">
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ishan-tamboli" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/ishantamboli" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Instagram -->
+  <a href="https://instagram.com/____.ishan_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:ishantamboli875@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+
 <p align="center">
   <i>"Every expert was once a beginner — Code every day."</i>
 </p>
 
+
 <div align="center">
   <img width="600" height="1" alt="line end" src="https://github.com/user-attachments/assets/ced5a97e-a93f-4f1b-bb2a-06ea40c1158a" />
   </div>
+
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ced5a97e-a93f-4f1b-bb2a-06ea40c1158a" alt="Footer GIF" width="600" />
 </div>
