@@ -94,6 +94,11 @@ Welcome to my GitHub! I am a computer science enthusiast exploring the intersect
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishantamboli&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
+
 
 <p align="center">
   <i>"Every expert was once a beginner — Code every day."</i>
