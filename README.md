@@ -67,9 +67,9 @@ Welcome to my GitHub! I am a computer science enthusiast exploring the intersect
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ishan-tamboli" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/ishan-tamboli-1b2485424/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- LeetCode -->
   <a href="https://leetcode.com/ishantamboli" target="_blank">
