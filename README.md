@@ -83,7 +83,7 @@ Welcome to my GitHub! I am a computer science enthusiast exploring the intersect
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- X(twitter) -->
   <a href="https://x.com/ishantamboli25" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" height="30" style="vertical-align: middle;" alt="X" />
+    <img src="https://cdn.simpleicons.org/x/white" height="33" style="vertical-align: middle;" alt="X" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Gmail -->
