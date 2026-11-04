@@ -81,10 +81,16 @@ Welcome to my GitHub! I am a computer science enthusiast exploring the intersect
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- X(twitter) -->
+  <a href="https://x.com/ishantamboli25" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/white" height="30" style="vertical-align: middle;" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Gmail -->
   <a href="mailto:ishantamboli875@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
   </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
